@@ -1,0 +1,20 @@
+tile.compressedblocks_CompressedIron1X.name=Compressed Iron Block
+tile.compressedblocks_CompressedIron2X.name=Double Compressed Iron Block
+tile.compressedblocks_CompressedIron3X.name=Triple Compressed Iron Block
+tile.compressedblocks_CompressedIron4X.name=Quadruple Compressed Iron Block
+tile.compressedblocks_CompressedIron5X.name=Quintuple Compressed Iron Block
+tile.compressedblocks_CompressedIron6X.name=Hextuple Compressed Iron Block
+
+tile.compressedblocks_CompressedGold1X.name=Compressed Gold Block
+tile.compressedblocks_CompressedGold2X.name=Double Compressed Gold Block
+tile.compressedblocks_CompressedGold3X.name=Triple Compressed Gold Block
+tile.compressedblocks_CompressedGold4X.name=Quadruple Compressed Gold Block
+tile.compressedblocks_CompressedGold5X.name=Quintuple Compressed Gold Block
+tile.compressedblocks_CompressedGold6X.name=Hextuple Compressed Gold Block
+
+tile.compressedblocks_CompressedDiamond1X.name=Compressed Diamond Block
+tile.compressedblocks_CompressedDiamond2X.name=Double Compressed Diamond Block
+tile.compressedblocks_CompressedDiamond3X.name=Triple Compressed Diamond Block
+tile.compressedblocks_CompressedDiamond4X.name=Quadruple Compressed Diamond Block
+tile.compressedblocks_CompressedDiamond5X.name=Quintuple Compressed Diamond Block
+tile.compressedblocks_CompressedDiamond6X.name=Hextuple Compressed Diamond Block
